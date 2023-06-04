@@ -20,7 +20,15 @@ Discuss:
 (taking into consideration page faults, overhead time if it’s a separate transfer time, or
 part of the kernel transfer time already).
 
+## Files
+- *`CEPARCO S11_G2_GPU-CPU Memory Transfer_Data and Analysis.pdf`*
+    - PDF file containing the data results and analysis for the GPU-CPU Memory transfer
+- *`[CEPARCO]Group2_GPUCPUMemTransfer.ipynb`*
+    - Notebook containing the source code implementation for each memory transfer method
+- *`CUDA_Unified_Memory_Research.pdf`*
+    - Researches on Unified Memory memory transfers
+
 ## Important Links
-- YouTube video presentation: [https://youtu.be/pRprKLqauH4](https://youtu.be/pRprKLqauH4)
-- Google Colab link [View access only]: [https://colab.research.google.com/drive/1fouudeoADH6v3W_3lIBvbTXAjzG6wS0_?usp=sharing](https://colab.research.google.com/drive/1fouudeoADH6v3W_3lIBvbTXAjzG6wS0_?usp=sharing)
+- **`YouTube video presentation:`** [https://youtu.be/pRprKLqauH4](https://youtu.be/pRprKLqauH4)
+- **`Google Colab link [View access only]:`** [https://colab.research.google.com/drive/1fouudeoADH6v3W_3lIBvbTXAjzG6wS0_?usp=sharing](https://colab.research.google.com/drive/1fouudeoADH6v3W_3lIBvbTXAjzG6wS0_?usp=sharing)
     - NOTE: Must be a part of the DLSU organzation when accessing the Google Colab link
